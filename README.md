@@ -59,7 +59,8 @@ Nota: yo instalé Debian y debido al limitado hardware de la tablet canaima hace
   - Micro SD (no la reconoce en el arranque/boot)
 
 - ### En Windows
-  - Ni idea
+
+  - En proceso
 
 ## ¿Qué utilidad podría tener un equipo con hardware tan limitado?
 
